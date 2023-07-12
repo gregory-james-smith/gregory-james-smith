@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 | Prefix | Description |
 |-|-|
-| `example` | |
+| `example` | Example programming project |
 | `pandoc` | Filters for pandoc |
+| `book` | A book |
