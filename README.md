@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 # Repository naming convention
 
-| Prefix | Description |
-|-|-|
-| `example` | Example programming project |
-| `pandoc` | Filters for pandoc |
-| `book` | A book |
+| Type    | Namespace | Description |
+| ------- | --------- | ----------- |
+| Article | `article` |             |
+| Book    | `book`    |             |
+| Plan    | `plan`    |             |
+| Example | `example` | Example, prototype or proof of concept            |
+| Project | `project` |             |
+| Pandoc  | `pandoc`  | A pandoc filter |
