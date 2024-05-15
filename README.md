@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* [Codespaces](https://github.com/codespaces)
+
 # Repository naming convention
 
 | Type    | Namespace | Description |
